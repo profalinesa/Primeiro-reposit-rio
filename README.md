@@ -1,2 +1,2 @@
-# Primeiro-reposit-rio
+# Primeiro-repositorio
 Aprendendo como criar um repositório
